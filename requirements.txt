@@ -14,3 +14,8 @@ langserve==0.2.2
 httpx==0.27.2
 sse_starlette
 langgraph==0.1.19
+langchain_huggingface
+lxml
+pymupdf
+arxiv
+ipython
